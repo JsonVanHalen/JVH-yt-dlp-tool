@@ -1,0 +1,4 @@
+yt_dlp/** export-ignore
+tests/** export-ignore
+*.pyc export-ignore
+__pycache__/** export-ignore

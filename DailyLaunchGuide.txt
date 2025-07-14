@@ -1,0 +1,24 @@
+===============================
+🚀 WSL DAILY DEV LAUNCH GUIDE
+===============================
+
+1️⃣ Open WSL Terminal
+
+2️⃣ Delete Previous Clone:
+    rm -rf ~/flask-youtube-downloader
+
+3️⃣ Clone Repo Fresh:
+    git clone git@github.com:jasonvanhalen/flask-youtube-downloader.git
+
+4️⃣ Enter Project & Open VS Code:
+    cd flask-youtube-downloader
+    code flask-youtube.code-workspace
+    (or: code .)
+
+5️⃣ Open Terminal in VS Code (WSL)
+    → Verify prompt: jason@ubuntu:~/flask-youtube-downloader$
+
+6️⃣ Start Coding 🚀
+    - Run Flask
+    - Make changes
+    - Commit & push

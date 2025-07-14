@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "python.defaultInterpreterPath": "./venv/bin/python",
+        "terminal.integrated.defaultProfile.linux": "bash",
+        "python.terminal.activateEnvironment": true
+    }
+}
